@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Audio CAPTCHA</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/p5.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/addons/p5.sound.min.js"></script>
+  <script src="p5.speech.js"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 20px;
+    }
+    canvas {
+      display: block;
+      margin: 20px auto;
+    }
+    #controls {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Audio CAPTCHA</h1>
+  <div id="controls">
+    <button onclick="speakCaptcha()">Replay CAPTCHA</button>
+    <input type="text" id="captchaInput" placeholder="Enter CAPTCHA">
+    <button onclick="validateCaptcha()">Submit CAPTCHA</button>
+  </div>
+  <script src="sketch.js"></script>
+</body>
+</html>
