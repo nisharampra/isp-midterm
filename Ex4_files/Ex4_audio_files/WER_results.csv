@@ -1,0 +1,16 @@
+Language,File,Reference,Hypothesis,WER
+English,checkin.wav,where is the check-in desk,where is the check-in desk,0.0
+English,parents.wav,i have lost my parents,i had lost my parents,20.0
+English,suitcase.wav,"please, I have lost my suitcase.",please i'll have lost my suitcase,50.0
+English,what_time.wav,what time is my plane?,what time is my plane,20.0
+English,where.wav,where are the restaurants and shops?,where are the restaurants and shops,16.666666666666664
+English,your_sentence1.mp3,hello do you know where is the mrt station,hello do you know where is the mrt station,0.0
+English,your_sentence2.mp3,hello my name is nisha,hello my name is michelle,20.0
+Italian,checkin_it.wav,dove e il bancone,dove è il bancone,0.0
+Italian,suitcase_it.wav,"per favore, ho perso la mia valigia.",per favore ho perso la mia valigia,28.57142857142857
+Italian,what_time_it.wav,a che ora e il mio aereo?,a che ora il mio aereo,28.57142857142857
+Spanish,checkin_es.wav,donde estan los mostradores,dónde están los mostradores,0.0
+Spanish,parents_es.wav,he perdido a mis padres,he perdido a mis padres,0.0
+Spanish,suitcase_es.wav,"Por favor, he perdido mi maleta.",por favor he perdido mi maleta,33.33333333333333
+Spanish,what_time_es.wav,¿A qué hora es mi avión?,a qué hora es diario,50.0
+Spanish,where_es.wav,¿Dónde están los restaurantes y las tiendas?,dónde están los restaurantes y las tiendas,28.57142857142857
